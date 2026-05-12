@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ComfyUI Remote</string>
+    <string name="connection">连接</string>
+    <string name="workflow">工作流</string>
+    <string name="queue">队列</string>
+    <string name="history">历史</string>
+    <string name="settings">设置</string>
+    <string name="server_url">服务器地址</string>
+    <string name="api_key">API Key</string>
+    <string name="connect">连接</string>
+    <string name="disconnect">断开</string>
+    <string name="refresh">刷新</string>
+    <string name="execute">执行</string>
+    <string name="interrupt">中断</string>
+    <string name="delete">删除</string>
+    <string name="clear_history">清空历史</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="error">错误</string>
+    <string name="success">成功</string>
+    <string name="loading">加载中...</string>
+    <string name="no_workflows">没有找到工作流</string>
+    <string name="no_history">暂无历史记录</string>
+    <string name="queue_empty">队列为空</string>
+    <string name="connection_failed">连接失败</string>
+    <string name="connection_success">连接成功</string>
+    <string name="settings_saved">设置已保存</string>
+    <string name="about">关于</string>
+    <string name="theme_settings">主题设置</string>
+    <string name="follow_system">跟随系统</string>
+    <string name="light_mode">浅色模式</string>
+    <string name="dark_mode">深色模式</string>
+</resources>
